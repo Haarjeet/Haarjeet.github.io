@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: momohuangjin@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 黄进的博客, qiubaiying, 黄进, iOS, Apple, iPhone"
-url: "http://harjeet.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/haarjeet/files.github.io.git" # you code repository
+url: "http://haarjeet.github.io"          # your host, for absolute URL
+baseurl: "/home"      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/haarjeet/home.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
