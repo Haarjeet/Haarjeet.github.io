@@ -1,10 +1,10 @@
 # Site settings
-title: Haarjeet's Blog
-SEOTitle: 黄进的博客 | BY Blog
+title: Harjeet's Blog
+SEOTitle: 黄进的博客 | Harjeet's Blog
 header-img: img/post-bg-desk.jpg
 email: momohuangjin@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 黄进的博客, qiubaiying, 黄进, iOS, Apple, iPhone"
+description: "Know yourself, be yourself."
+keyword: "Harjeet's Blog, 黄进的博客, 黄进, Java, Android"
 url: "http://haarjeet.github.io"          # your host, for absolute URL
 baseurl: "/Home"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/haarjeet/Home.git" # you code repository
@@ -12,15 +12,15 @@ github_repo: "https://github.com/haarjeet/Home.git" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-me.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
 # weibo_username:     
-zhihu_username:     
-github_username:   
+zhihu_username: 积木 
+github_username: haarjeet
 facebook_username:  
 jianshu_username:   
 #twitter_username:  
@@ -31,7 +31,7 @@ jianshu_username:
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
-paginate: 10
+paginate: 7
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
@@ -71,7 +71,9 @@ gitalk:
 
 
 # 统计
-
+# Google Analytics
+ga_track_id: 'UA-118456628-1'           
+ga_domain: auto
 
 
 # Featured Tags
