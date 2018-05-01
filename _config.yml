@@ -1,13 +1,13 @@
 # Site settings
-title: BY Blog
+title: Haarjeet's Blog
 SEOTitle: 黄进的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: momohuangjin@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 黄进的博客, qiubaiying, 黄进, iOS, Apple, iPhone"
 url: "http://haarjeet.github.io"          # your host, for absolute URL
-baseurl: "/home"      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/haarjeet/home.git" # you code repository
+baseurl: "/Home"      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/haarjeet/Home.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -87,18 +87,4 @@ service-worker: true
 
 
 # Friends
-friends: [
-    {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    }
-]
+
