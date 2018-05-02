@@ -6,8 +6,8 @@ email: momohuangjin@gmail.com
 description: "Know yourself, be yourself."
 keyword: "Harjeet's Blog, 黄进的博客, 黄进, Java, Android"
 url: "http://haarjeet.github.io"          # your host, for absolute URL
-baseurl: "/Home"      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/haarjeet/Home.git" # you code repository
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/haarjeet/haarjeet.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
